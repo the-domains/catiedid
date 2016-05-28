@@ -1,0 +1,28 @@
+name: Catiedid
+favicon: null
+layout_spectrum: 0.9028205254580826
+typography_spectrum: 0.033495607785880566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1279379988554865
+  lightness: 0.5814949052873999
+  saturation: 0.15445147105492651
+  rhythmicContrast: 0.8838021971751004
+purpose: []
